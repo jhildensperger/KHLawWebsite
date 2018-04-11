@@ -80,6 +80,12 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #7ED321;
 }
 
+.img-bio {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
 .gtco-nav {
   position: fixed;
   top: 0;
